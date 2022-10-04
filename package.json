@@ -90,7 +90,7 @@
     "arrive": "^2.4.1",
     "avsc": "^5.7.4",
     "bcryptjs": "^2.4.3",
-    "bignumber.js": "^9.0.2",
+    "bignumber.js": "^9.1.0",
     "blakejs": "^1.2.1",
     "bootstrap": "4.6.1",
     "bootstrap-colorpicker": "^3.4.0",
